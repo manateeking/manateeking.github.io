@@ -4,7 +4,7 @@ date: 2020-11-17T16:46:39-05:00
 draft: false
 ---
 
-### Facts About Manatees
+### **Facts About Manatees**
 
 1. Most manatees swim alone and appearing lonely is very offputting
 2. No known enemies or predators
