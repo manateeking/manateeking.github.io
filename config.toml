@@ -39,7 +39,7 @@ googleAnalytics = "Your Google Analytics tracking id"
   contact = "mailto:contact@manateeking.com"
   bio = "Just a simple man with simple dreams of becoming a king"
   # Short subtitle/tagline. This is displayed in the header.
-  subtitle = "NO WAKE ZONE"
+  subtitle = "THIS IS A NO WAKE ZONE"
   # Logo image. This is displayed ogp image.
   logo = "/path/to/logo"
   favicon = "/path/to/favicon"
