@@ -1,11 +1,11 @@
 ---
-title: "Manatees and Coronavirus: The Truth REVEALED"
+title: "Origins of Coronavirus Linked to Manatees"
 date: 2020-11-17T16:46:39-05:00
 draft: false
 ---
 
-### Reasons to hate manatees (ABRIDGED)
-1. They are losers. Most manatees swim alone and appearing lonely is very offputting
+### Facts About Manatees
+1. Most manatees swim alone and appearing lonely is very offputting
 2. No known enemies or predators
 3. Ruin good wakeboarding zones on the river with slow speed zones
 4. Lack of vertebrae in the neck. They have to turn their entire body around to see behind
@@ -46,6 +46,3 @@ How long had the manatees known?  about the virus before the rest of the world? 
 The manatees as a species had the foreknowledge and implemented COVID guidelines before the virus was even known to the world.
 
 This is not only suspicious, **it’s downright terrifying**.
-
-
-
