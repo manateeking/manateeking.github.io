@@ -35,7 +35,7 @@ googleAnalytics = "Your Google Analytics tracking id"
   #disqus = ""
   author = "Manatee King"
   authorwebsite = "manateeking.com"
-  avatar = "/path/to/avatar"
+  avatar = "/images/signs/manatee-lover.jpg"
   contact = "mailto:contact@manateeking.com"
   bio = "Just a simple man with simple dreams of becoming a king"
   # Short subtitle/tagline. This is displayed in the header.
