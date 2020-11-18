@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://manateeking.com/</loc>
-    <lastmod>2020-11-17T16:46:39-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://manateeking.com/posts/manatees-covid-revealed/</loc>
     <lastmod>2020-11-17T16:46:39-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://manateeking.com/posts/</loc>
+    <lastmod>2020-11-17T16:46:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://manateeking.com/</loc>
     <lastmod>2020-11-17T16:46:39-05:00</lastmod>
   </url>
   

@@ -1,6 +1,6 @@
 baseurl = "https://manateeking.com/"
 languageCode = "en-us"
-Title = "manatee king.com"
+Title = "the manatee king"
 theme = "hugo_theme_pickles"
 publishDir = "docs"
 # Copyright notice. This is displayer in the footer.
