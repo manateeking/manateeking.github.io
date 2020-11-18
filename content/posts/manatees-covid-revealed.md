@@ -5,6 +5,7 @@ draft: false
 ---
 
 ### Facts About Manatees
+
 1. Most manatees swim alone and appearing lonely is very offputting
 2. No known enemies or predators
 3. Ruin good wakeboarding zones on the river with slow speed zones
@@ -17,7 +18,7 @@ draft: false
 10. Too friendly and just pushovers in general
 11. Lifespan of 40-60 years old is longer than any of us should be comfortable with
 
-Since the beginning of COVID, there's been one thing I haven't been able to wrap my head around. An itch that can't be scratched. 
+Since the beginning of COVID, there's been one thing I haven't been able to wrap my head around. An itch that can't be scratched.
 
 I’m talking about manatees, of course.
 
@@ -45,4 +46,4 @@ How long had the manatees known?  about the virus before the rest of the world? 
 
 The manatees as a species had the foreknowledge and implemented COVID guidelines before the virus was even known to the world.
 
-This is not only suspicious, **it’s downright terrifying**.
+This is not only suspicious, **it’s downright terrifying**
