@@ -33,7 +33,7 @@ googleAnalytics = "Your Google Analytics tracking id"
   #strava = "Your Strava userid"
   # Disqus shortname
   #disqus = ""
-  author = ""
+  author = "Ain't no part about it."
   authorwebsite = "manateeking.com"
   avatar = "/images/signs/manatee-lover.jpg"
   contact = "mailto:contact@manateeking.com"
