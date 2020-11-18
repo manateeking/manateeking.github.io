@@ -41,7 +41,7 @@ googleAnalytics = "Your Google Analytics tracking id"
   # Short subtitle/tagline. This is displayed in the header.
   subtitle = "NO WAKE ZONE"
   # Logo image. This is displayed ogp image.
-  logo = "/path/to/logo"
+  logo = "/images/signs/manatee-caution.jpeg"
   favicon = "/path/to/favicon"
 
 [[menu.main]]
