@@ -33,11 +33,11 @@ googleAnalytics = "Your Google Analytics tracking id"
   #strava = "Your Strava userid"
   # Disqus shortname
   #disqus = ""
-  author = "Ain't no part about it."
+  author = "Jim Janus"
   authorwebsite = "manateeking.com"
   avatar = "/images/signs/manatee-lover.jpg"
   contact = "mailto:contact@manateeking.com"
-  bio = "I'm just a simple man in a consexual relationship with a manatee"
+  bio = "Furthering the bounds of consensual relationships between humans and manatee"
   # Short subtitle/tagline. This is displayed in the header.
   subtitle = "NO WAKE ZONE"
   # Logo image. This is displayed ogp image.
