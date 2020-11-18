@@ -1,4 +1,4 @@
-baseurl = "http://manateeking.com"
+baseurl = "https://manateeking.com"
 languageCode = "en-us"
 Title = "manatee king.com"
 theme = "hugo_theme_pickles"
